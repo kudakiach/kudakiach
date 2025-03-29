@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kudakiach
 - 👀 I’m interested in Web Develpoment (Full stack Engineer)
-- 🌱 I’m currently learning React and NodeJs
+- 🌱 I’m currently working on personal projects
 - 💞️ I’m looking to collaborate on Variuos Web Application projects
 - 📫 How to reach me kiachkuda@gmail.com
 
